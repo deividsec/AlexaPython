@@ -17,9 +17,10 @@ No arquivo, escreva o seguinte código:
 
 
 <h1>3. Execute o código</h1>
-• No editor de código, selecione a opção "Run Python File"
 
-• Ou pressione Ctrl+F5 para executar o arquivo.
+- No editor de código, selecione a opção "Run Python File"
+
+- Ou pressione Ctrl+F5 para executar o arquivo.
 
 <h4>3. O programa irá: </h4>
 
