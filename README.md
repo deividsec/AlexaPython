@@ -30,7 +30,7 @@ No arquivo, escreva o seguinte código:
 
 - Ajustar a velocidade e o volume da fala.
 
-- Falar o texto: "Digite o texto que você deseja ua a IA fale".
+- Falar o texto: "Digite o texto que você deseja que a IA fale".
 
 <h1>4. Personalizar o projeto</h1>
 
